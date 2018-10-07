@@ -5,12 +5,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://yooyoo8.site/"/>
   <updated>2018-10-06T17:31:09.018Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://yooyoo8.site/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>yoyo</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/10/07/hello-world/"/>
-    <id>http://yoursite.com/2018/10/07/hello-world/</id>
+    <link href="http://yooyoo8.site/2018/10/07/hello-world/"/>
+    <id>http://yooyoo8.site/2018/10/07/hello-world/</id>
     <published>2018-10-06T17:31:09.018Z</published>
     <updated>2018-10-06T17:31:09.018Z</updated>
     
